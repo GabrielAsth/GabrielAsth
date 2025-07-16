@@ -13,7 +13,6 @@ My name is Gabriel Asth and I’m Aspiring cybersecurity professional. On this p
 <div style="display: inline_block">
 	<a href="https://www.linkedin.com/in/gabriel-bussinger/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
-
 ###
 
 <br clear="both">
