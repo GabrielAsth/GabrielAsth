@@ -31,6 +31,6 @@ My name is Gabriel Asth and I’m Aspiring cybersecurity professional. On this p
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/GabrielAsth/GabrielAsth/output/snake.svg" alt="Snake animation" />
 
 ###
